@@ -1,0 +1,28 @@
+{
+  "name": "single-spa-issue-767",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldenning/single-spa-issue-767.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeldenning/single-spa-issue-767/issues"
+  },
+  "homepage": "https://github.com/joeldenning/single-spa-issue-767#readme",
+  "dependencies": {
+    "single-spa": "3"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.30.0",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^4.0.0-beta.1"
+  }
+}
